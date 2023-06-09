@@ -1,8 +1,8 @@
-# k ![MIT](https://img.shields.io/badge/license-MIT-green)
+# My App ![MIT](https://img.shields.io/badge/license-MIT-green)
 
 
 ## Description
-k
+This is the description of My App
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,18 +15,18 @@ k
 
 
 ## Installation
-k
+This is how to install My App
 ## Usage
-k
+This is how to use My App
 ## License
 MIT
 ## Features
-k
+These are features of My App
 ## Contributions
-k
+This is how to contribute to My App
 ## Tests
-k
+This is about tests for My App
 ## Questions
-www.github.com/k
-k
+www.github.com/aurora-stone
+email@email.com
   

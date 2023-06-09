@@ -29,7 +29,8 @@ Run npm install and then node index.js to run application
 ## License
 MIT
 ## Video Link
+[Link to Video](https://drive.google.com/file/d/1D-XsjtTFKZB2RRXxxYNYt6aJp3vAqyES/view)
 
 ## Screenshot 
-
+![Image](./screenshot.png)
   
